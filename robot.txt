@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kasinobekarat.github.io/qris/sitemap.xml
